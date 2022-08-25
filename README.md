@@ -1,5 +1,5 @@
 # Html Scrollable Horizontal Row
- A simple scrollable row with avatars built with HTML and CSS for user friendly interfaces and websites. 
+ A simple scrollable and responsive row with avatars built with HTML and CSS for user friendly interfaces and websites. 
 
 ![](demo.gif)
 
